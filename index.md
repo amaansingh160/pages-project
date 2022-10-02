@@ -11,7 +11,7 @@
 **A Gif that represents**
 > Music helps me code
 
-<br><img src="photos/ishowspeed.gif" alt="gif"/>
+<br><img src="photos/ishowspeed.gif" alt="gif"/></br>
 
 **The only code I know:**
 ```
