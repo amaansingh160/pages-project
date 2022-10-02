@@ -26,7 +26,3 @@ print("Hello World")
 **Song that I'm messing with alot:**
     [Tory Lanez - This Aint Working](https://www.youtube.com/watch?v=g2mMBXaxmVo)
 
-
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
