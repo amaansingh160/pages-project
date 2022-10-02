@@ -10,7 +10,7 @@
 
 **A Gif that represents**
 > Music helps me code
-<p><img src="https://github.com/amaansingh160/pages-project/blob/add-new-line/photos/ishowspeed.gif"/></p>
+![](photos/ishowspeed.gif)
 
 **The only code I know:**
 ```
