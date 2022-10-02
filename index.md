@@ -10,7 +10,7 @@
 
 **A Gif that represents**
 > Music helps me code
-!(https://media.tenor.com/EGsNnDBumY0AAAAd/ishowspeed.gif)
+!(https://github.com/amaansingh160/pages-project/blob/add-new-line/photos/ishowspeed.gif)
 
 **The only code I know:**
 ```
