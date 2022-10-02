@@ -10,7 +10,7 @@
 
 **A Gif that represents**
 > Music helps me code
-![](photos/ishowspeed.gif)
+<img src="photos/ishowspeed.gif" alt="gif" width="200"/>
 
 **The only code I know:**
 ```
